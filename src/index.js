@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom'
 import Header from './containers/Header'
 import Content from './containers/Content'
 import './index.css'
-import PropTypes from 'prop-types'
 import { createStore } from 'redux'
 import { Provider } from 'react-redux'
 import registerServiceWorker from './registerServiceWorker';
